@@ -11,8 +11,8 @@
   "author": "Jeremiah Lee <mass@jeremiahlee.com>",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/jeremiahlee/tumblr-like-downloader.git"
+    "type": "git",
+    "url": "https://github.com/jeremiahlee/tumblr-like-downloader.git"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
